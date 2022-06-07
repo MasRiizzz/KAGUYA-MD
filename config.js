@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Rizki Muhammad Adam.
+   * Contact Me on wa.me/6285876810596
+   * Follow https://github.com/MasRiizzz
 */
 
 const fs = require('fs')
@@ -22,16 +22,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
-global.packname = 'BAYUBOT-MD'
-global.author = 'CREATED BY BAYU OFC'
+global.owner = ['6285876810596', '6285876810596']
+global.botname = 'KAGUYA-MD'
+global.ownername = 'Rizki Muhammad Adam'
+global.packname = 'KAGUYA-MD 2022'
+global.author = '© Rizki Muhammad Adam'
 global.sessionName = 'session'
 global.prefa = ['#','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done !! Subscribe BAYU OFC',
+    success: '✅Done, Jangan lupa donasi',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
